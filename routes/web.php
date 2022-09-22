@@ -44,7 +44,7 @@ Route::get('/guestDashboard', function () {
         'laravelVersion' => Application::VERSION,
         'phpVersion' => PHP_VERSION,
     ]);
-});
+})->name('guestDashboard');
 
 
 /*Route::get('/admin', function () {

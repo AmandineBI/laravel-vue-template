@@ -27,6 +27,7 @@
         "@inertiajs/progress": "^0.2.7",
         "@vitejs/plugin-legacy": "^2.1.0",
         "@vitejs/plugin-vue": "^3.1.0",
+        "pinia": "^2.0.22",
         "ziggy-js": "^1.4.6"
     }
 }
